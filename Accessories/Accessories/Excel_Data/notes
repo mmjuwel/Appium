@@ -1,0 +1,10 @@
+1. File upload for Tag variable Data -> System become hang when upload data using sendkeys
+2. Master file receive: Different user log in with execution of different test case. 
+
+
+
+
+3. need to handle popup in general delivery entry 
+4. Need to add search by order number/job order in production entry 
+5. Delivery man and Driver selection takes long time to select 
+7. packing create 

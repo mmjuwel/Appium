@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrderManagement">
+  <test thread-count="5" name="MasterFileReceive">
+    <classes>
+      <class name="Order_Managenent.OrderMasterFileIssue"/>
+      
+      
+      
+      
+    </classes>
+  </test> <!-- MasterFileReceive -->
+</suite> <!-- OrderManagement -->

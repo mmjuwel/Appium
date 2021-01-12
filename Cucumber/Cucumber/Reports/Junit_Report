@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="3.050165">
+<testcase classname="Login into ERP" name="Calculation" time="3.050165">
+<system-out><![CDATA[Given two numberes 10 and 15................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

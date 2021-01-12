@@ -1,0 +1,49 @@
+**********Run protector using VS Code **************
+IDE - Integrated Development Environment
+Webstorm
+Eclipse
+Visual Studio Code
+
+Step 1 : Download and install Visual Studio Code
+ https://code.visualstudio.com/download#
+
+Step 2 : Open VS Code
+
+Step 3 : Install support for JavaScript and TypeScript
+
+Step 4 : Create a new folder and open in VS Code explorer
+
+Step 5 : Inside ProtractorDemo folder create 2 folders
+ conf
+ tests
+
+note : protractor uses jasmine test framework by default
+Just in case you need to install jasmine use the command
+npm install --save-dev jasmine
+
+Step 6 : Goto the folder 
+  C:\Users\Administrator\AppData\Roaming\npm\node_modules\protractor\example
+
+Copy conf.js into conf folder in VSCode
+Copy example_spec.js into tests folder in VSCode
+
+Step 7 : In conf.js update location of spec file
+
+Step 8 : Run conf.js in protractor
+ protractor conf.js
+
+
+
+Note: -----------------------------------------------------------
+If you're using Windows Server 2008 R2 then there is an x64 and x86 version of PowerShell both of which have to have their execution policies set. Did you set the execution policy on both hosts?
+
+As an Administrator, you can set the execution policy by typing this into your PowerShell window:
+
+Set-ExecutionPolicy RemoteSigned
+
+For more information, see Using the Set-ExecutionPolicy Cmdlet.
+
+When you are done, you can set the policy back to its default value with:
+
+Set-ExecutionPolicy Restricted
+-----------------------------------------------------------------------------------
